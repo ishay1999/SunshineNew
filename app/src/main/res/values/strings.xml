@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SunshineNew</string>
+    <string name="action_settings">Settings</string>
+    <string name="forecast_data1">Today - Sunny - 88 / 63</string>
+    <string name="forecast_data2">Today - Sunny - 88 / 63</string>
+    <string name="forecast_data3">Today - Sunny - 88 / 63</string>
+    <string name="forecast_data4">Today - Sunny - 88 / 63</string>
+    <string name="forecast_data5">Today - Sunny - 88 / 63</string>
+    <string name="forecast_data6">Today - Sunny - 88 / 63</string>
+</resources>
